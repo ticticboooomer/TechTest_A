@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TTB.CAVU.ParkingSpaces.Web", "TTB.CAVU.ParkingSpaces.Web\TTB.CAVU.ParkingSpaces.Web.csproj", "{557AC96A-984C-4803-BAC2-562A09E52E36}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TTB.CAVU.ParkingSpaces.DataAccess", "TTB.CAVU.ParkingSpaces.DataAccess\TTB.CAVU.ParkingSpaces.DataAccess.csproj", "{BFCF57FB-FF63-452D-ADC4-31824274927F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TTB.CAVU.ParkingSpaces.Services", "TTB.CAVU.ParkingSpaces.Services\TTB.CAVU.ParkingSpaces.Services.csproj", "{B3FE1E49-5519-4229-BD8E-D3394D8C0633}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTB.CAVU.ParkingSpaces.Services.Test", "TTB.CAVU.ParkingSpaces.Services.Test\TTB.CAVU.ParkingSpaces.Services.Test.csproj", "{C25EF7EA-BD45-404D-AF14-D000D6BADC45}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{557AC96A-984C-4803-BAC2-562A09E52E36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{557AC96A-984C-4803-BAC2-562A09E52E36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{557AC96A-984C-4803-BAC2-562A09E52E36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{557AC96A-984C-4803-BAC2-562A09E52E36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFCF57FB-FF63-452D-ADC4-31824274927F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFCF57FB-FF63-452D-ADC4-31824274927F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFCF57FB-FF63-452D-ADC4-31824274927F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFCF57FB-FF63-452D-ADC4-31824274927F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3FE1E49-5519-4229-BD8E-D3394D8C0633}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3FE1E49-5519-4229-BD8E-D3394D8C0633}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3FE1E49-5519-4229-BD8E-D3394D8C0633}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3FE1E49-5519-4229-BD8E-D3394D8C0633}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C25EF7EA-BD45-404D-AF14-D000D6BADC45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C25EF7EA-BD45-404D-AF14-D000D6BADC45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C25EF7EA-BD45-404D-AF14-D000D6BADC45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C25EF7EA-BD45-404D-AF14-D000D6BADC45}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {441C42DD-B645-4DC4-9EFE-EBD04302A107}
+	EndGlobalSection
+EndGlobal
